@@ -1,0 +1,9 @@
+c:\users\rattlesnk\documents\visual studio 2012\Projects\tstServer\tstServer\bin\Debug\tstServer.exe.config
+c:\users\rattlesnk\documents\visual studio 2012\Projects\tstServer\tstServer\bin\Debug\tstServer.exe
+c:\users\rattlesnk\documents\visual studio 2012\Projects\tstServer\tstServer\bin\Debug\tstServer.pdb
+c:\users\rattlesnk\documents\visual studio 2012\Projects\tstServer\tstServer\obj\Debug\tstServer.csprojResolveAssemblyReference.cache
+c:\users\rattlesnk\documents\visual studio 2012\Projects\tstServer\tstServer\obj\Debug\tstServer.Form1.resources
+c:\users\rattlesnk\documents\visual studio 2012\Projects\tstServer\tstServer\obj\Debug\tstServer.Properties.Resources.resources
+c:\users\rattlesnk\documents\visual studio 2012\Projects\tstServer\tstServer\obj\Debug\tstServer.csproj.GenerateResource.Cache
+c:\users\rattlesnk\documents\visual studio 2012\Projects\tstServer\tstServer\obj\Debug\tstServer.exe
+c:\users\rattlesnk\documents\visual studio 2012\Projects\tstServer\tstServer\obj\Debug\tstServer.pdb

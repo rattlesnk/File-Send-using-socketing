@@ -1,0 +1,8 @@
+c:\users\rattlesnk\documents\visual studio 2012\Projects\tstClient\tstClient\bin\Debug\tstClient.exe.config
+c:\users\rattlesnk\documents\visual studio 2012\Projects\tstClient\tstClient\bin\Debug\tstClient.exe
+c:\users\rattlesnk\documents\visual studio 2012\Projects\tstClient\tstClient\bin\Debug\tstClient.pdb
+c:\users\rattlesnk\documents\visual studio 2012\Projects\tstClient\tstClient\obj\Debug\tstClient.Form1.resources
+c:\users\rattlesnk\documents\visual studio 2012\Projects\tstClient\tstClient\obj\Debug\tstClient.Properties.Resources.resources
+c:\users\rattlesnk\documents\visual studio 2012\Projects\tstClient\tstClient\obj\Debug\tstClient.csproj.GenerateResource.Cache
+c:\users\rattlesnk\documents\visual studio 2012\Projects\tstClient\tstClient\obj\Debug\tstClient.exe
+c:\users\rattlesnk\documents\visual studio 2012\Projects\tstClient\tstClient\obj\Debug\tstClient.pdb
